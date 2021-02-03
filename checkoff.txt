@@ -1,0 +1,1 @@
+The git remote command functions to create, view, and delete connections to other repositories. The command is basically an interface to manage a list of remote entries stored in the repository.
